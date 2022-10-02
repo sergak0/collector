@@ -1,0 +1,344 @@
+id,active,full_name,position,hiring_type,payment_type,salary_calculation_type,english_level,passport,is_nda_signed,is_labor_contract_signed,is_added_to_internal_chats,is_added_one_to_one
+1,1,David Courtney,,,,,,0,0,0,0,0
+2,0,Dan Guerra,Web-разработчик,staff,fixed,,,0,0,0,0,0
+4,0,Grady Smith,Web-разработчик,staff,fixed,,,0,0,0,0,0
+6,0,James Powell,Разработчик мобильных приложений,staff,fixed,,,0,0,0,0,0
+8,1,John Brown,Разработчик мобильных приложений,staff,fixed,,,1,1,1,1,1
+10,1,Walter Payton,Web-разработчик,staff,fixed,,,1,1,1,1,1
+11,1,Latanya Bazile,Web-разработчик,staff,fixed,,,1,1,1,1,1
+12,0,George Sherratt,Системный администратор (DevOps инженер),staff,,,,0,0,0,0,0
+13,1,Joyce Carver,Разработчик мобильных приложений,staff,fixed,,,1,1,1,1,1
+18,1,Karen Grant,Web-разработчик,staff,fixed,,,1,1,1,1,1
+20,1,Melissa Tyson,Web-разработчик,staff,fixed,,,1,1,1,1,1
+22,1,Caroline Lawrence,Разработчик мобильных приложений,staff,fixed,,,1,1,1,1,1
+25,0,Lorie Jenkins,,,,,,0,0,0,0,0
+33,1,Jason Lopez,Web-разработчик,staff,fixed,,,1,1,1,1,1
+36,0,Norman Hernandez,,,,,,0,0,0,0,0
+37,0,Bradley Vitiello,Менеджер проектов,staff,fixed,,,0,0,0,0,0
+41,0,Thomas Bennett,,,,,,0,0,0,0,0
+43,1,John Buell,,non_staff,hourly,,,0,0,0,0,0
+44,0,Charles Rogers,,,,,,0,0,0,0,0
+46,0,Walter Bennett,,,,,,0,0,0,0,0
+48,0,Landon Delapena,Web-разработчик,staff,fixed,,,0,0,0,0,0
+50,0,Taylor Ciaccio,Разработчик мобильных приложений,staff,fixed,,,0,0,0,0,0
+51,0,Marguerite Macias,,,,,,0,0,0,0,0
+52,1,Sheena Brooks,Web-разработчик,staff,hourly,gross,,1,1,1,1,1
+53,0,Anthony Nelson,,,,,,0,0,0,0,0
+54,1,Mark Webster,Менеджер проектов,staff,fixed,,,1,1,1,1,1
+56,0,Steven Cruz,,,,,,0,0,0,0,0
+57,1,Janie Watson,Web-разработчик,staff,fixed,,,1,1,1,1,1
+58,1,James Thomas,Менеджер проектов,staff,hourly,gross,,1,1,1,1,1
+60,0,William Crooks,,,,,,0,0,0,0,0
+67,0,Laurie Willis,Web-разработчик,staff,,,,0,0,0,0,0
+68,1,Robert Peterkin,Web-разработчик,staff,fixed,,,1,1,1,1,1
+69,1,Robert Mccloud,Разработчик мобильных приложений,staff,fixed,,,1,1,1,1,1
+71,1,Chelsea Carrero,Разработчик мобильных приложений,staff,fixed,,,1,1,1,1,1
+72,0,Michael Carter,,staff,,,,0,0,0,0,0
+77,0,Armando Teague,,,,,,0,0,0,0,0
+82,1,Virginia Goodin,Системный администратор (DevOps инженер),non_staff,fixed,,,1,1,0,1,0
+83,0,Boyd Ornelas,Разработчик мобильных приложений,staff,fixed,,,0,0,0,0,0
+85,1,Joan Love,Директор,staff,fixed,,,1,1,0,1,0
+86,1,Beulah Amaral,Web-разработчик,staff,fixed,,,1,1,1,1,1
+87,0,Marie Green,,,,,,0,0,0,0,0
+89,0,Gail Davies,,,,,,0,0,0,0,0
+91,1,Carol Morgan,Web-разработчик,staff,fixed,,,1,1,1,1,1
+93,1,Olga Bush,Разработчик мобильных приложений,staff,fixed,,,1,1,1,1,1
+94,0,Vicki Lynch,Разработчик мобильных приложений,staff,fixed,,,0,0,0,0,0
+95,0,Mark Kleis,,,,,,0,0,0,0,0
+96,0,Sheila Leon,,,,,,0,0,0,0,0
+97,1,Jennifer Washington,Web-разработчик,staff,fixed,,,1,1,1,1,1
+98,1,Charles Plienis,Web-разработчик,staff,fixed,,,1,1,1,1,1
+99,1,Helen Maxwell,Web-разработчик,staff,hourly,,,1,1,1,1,1
+100,0,Chris Patterson,Web-разработчик,staff,fixed,,,0,0,0,0,0
+105,0,Gerardo Mitchell,Менеджер проектов,staff,fixed,,,0,0,0,0,0
+106,0,Jenny Otten,,,,,,0,0,0,0,0
+107,0,Stephan Edge,Web дизайнер,staff,hourly,,,0,0,0,0,0
+110,0,Brian Noblett,,,,,,0,0,0,0,0
+112,0,Latoya Daughtrey,DevOps инженер,staff,fixed,,,0,0,0,0,0
+113,0,Arthur Stewart,,,,,,0,0,0,0,0
+114,1,Tammy Moman,Web-разработчик,staff,fixed,,,1,1,1,1,1
+116,1,Andrew Colantro,Директор по стратегическому развитию,staff,fixed,,C1,1,1,1,1,0
+117,0,Robert Christianson,Web-разработчик,staff,fixed,,,0,0,0,0,0
+118,1,Norman Nishitani,DevOps инженер,staff,fixed,,,1,1,1,1,1
+119,0,Jason Amos,,,,,,0,0,0,0,0
+121,0,Christal Olds,,,,,,0,0,0,0,0
+125,0,Martha Cahill,,,,,,0,0,0,0,0
+126,0,Robert Montes,,,,,,0,0,0,0,0
+128,0,Donald Driskell,,,,,,0,0,0,0,0
+131,1,Joseph Nabzdyk,Разработчик мобильных приложений,staff,fixed,,,1,1,1,1,1
+132,0,Melinda Fennell,,,,,,0,0,0,0,0
+135,0,Sonya Felton,,,,,,0,0,0,0,0
+137,0,Paul Ferguson,,,,,,0,0,0,0,0
+140,1,Jimmy Michaud,Руководитель отдела по управлению персоналом,staff,fixed,,,1,1,1,1,1
+141,0,Brandon Baumberger,Руководитель отдела Маркетинга,staff,fixed,,,0,0,0,0,0
+144,1,Ricardo Cunningham,Web-разработчик,staff,fixed,,,1,1,1,1,1
+147,0,Alvin Bott,,non_staff,,,,0,0,0,0,0
+149,0,Heriberto Garcia,,,,,,0,0,0,0,0
+151,1,Russell Arnot,DevOps инженер,staff,fixed,,,1,1,1,1,1
+153,0,Thomas Pigg,,,,,,0,0,0,0,0
+163,0,Walter Malin,,non_staff,hourly,,,0,0,0,0,0
+165,0,Richard Walker,,non_staff,hourly,,,0,0,0,0,0
+166,0,Paul Barnes,,non_staff,,,,0,0,0,0,0
+167,0,Aaron Ennis,,non_staff,hourly,,,0,0,0,0,0
+168,0,Glenn Tratar,,non_staff,,,,0,0,0,0,0
+170,0,Gary Ramirez,,non_staff,,,,0,0,0,0,0
+173,1,James Dondero,Web-разработчик,staff,fixed,,,1,1,1,1,1
+177,1,Alma Boykin,,non_staff,hourly,,,0,0,0,0,0
+191,1,Kirk Hines,Web-разработчик,staff,hourly,,C1,1,1,1,1,1
+192,1,Leslie Cuevas,Web-разработчик,staff,hourly,,B1,1,1,1,1,1
+193,1,Charles Ng,Менеджер проектов,staff,fixed,,B1,1,1,1,1,1
+195,0,Katherine Gonzales,Web-разработчик,staff,fixed,,,1,1,1,1,1
+197,1,Doug Beckett,Web-разработчик,staff,fixed,,,1,1,1,1,1
+202,1,Joel Collins,Руководитель команды разработки,staff,hourly,,,0,0,0,0,0
+203,0,Mary Moore,Системный администратор(DevOps инженер),staff,fixed,,,0,0,0,0,0
+204,1,John Nicholas,Delivery Manager,staff,fixed,,,1,1,1,1,1
+205,1,Brett Fitzpatrick,Менеджер проектов,staff,fixed,,,1,1,1,1,1
+206,1,Victoria Dabadie,Инженер тестировщик (QA engineer),staff,fixed,,,1,1,1,1,1
+207,1,Michael Harrison,Web-разработчик,staff,hourly,,,1,1,1,1,1
+208,0,William Heiser,Web-разработчик,staff,fixed,,,0,0,0,0,0
+210,1,Justin Hass,Директор по IT,staff,fixed,,,1,1,1,1,0
+211,0,John Owens,,,,,,0,0,0,0,0
+214,0,Scott Cole,Web-дизайнер,staff,fixed,,,0,0,0,0,0
+215,0,Michael Metz,Технический директор,staff,fixed,,,1,1,1,1,0
+216,0,Helene Walters,Web-разработчик,staff,fixed,,,0,0,0,0,0
+218,1,Carla Wigley,Web-разработчик,staff,fixed,,,1,1,1,1,1
+225,0,Jane Hart,,non_staff,,,,0,0,0,0,0
+231,0,Sharon Cardin,Менеджер проектов,staff,,,,0,0,0,0,0
+235,0,Casey Collins,,,,,,0,0,0,0,0
+237,0,Cora Perry,Разработчик мобильных приложений,staff,fixed,,,0,0,0,0,0
+238,0,Helen Pugh,,staff,fixed,,,0,0,0,0,0
+239,0,Mose Dinkins,,,,,,0,0,0,0,0
+240,0,James Baca,Маркетолог,staff,fixed,,,0,0,0,0,0
+241,1,Luis Ibanez,Web-разработчик,staff,fixed,,,1,1,1,1,1
+242,0,Michael Carbone,Web-разработчик,staff,fixed,,,1,1,1,1,1
+246,1,Jacklyn Cullum,Web дизайнер,staff,hourly,gross,,1,1,1,1,1
+249,0,Selma Porter,,,,,,0,0,0,0,0
+250,0,Arthur Clark,,,,,,0,0,0,0,0
+251,0,Kathy Frazier,,non_staff,hourly,,,0,0,0,0,0
+252,0,Doris Rucker,,,,,,0,0,0,0,0
+254,0,John Harris,,,,,,0,0,0,0,0
+255,0,Joe Myers,Менеджер проектов,staff,,,,0,0,0,0,0
+256,0,Annie Prater,,,,,,0,0,0,0,0
+257,0,Vivian Carey,,,,,,0,0,0,0,0
+260,1,Grace Hackett,Инженер тестировщик (QA engineer),staff,fixed,,,1,1,1,1,1
+264,1,Barbara Kelly,Web-разработчик,staff,fixed,,,1,1,1,1,1
+266,0,Michael Woodall,,,,,,0,0,0,0,0
+268,1,Gerald Mosley,Web-разработчик,staff,fixed,,B1,1,1,1,1,1
+277,0,Edith Anderson,,,,,,0,0,0,0,0
+278,0,Cherry Miltner,,,,,,0,0,0,0,0
+279,1,Ella Morris,Web-разработчик,staff,fixed,,,1,1,1,1,1
+280,1,Frederick Loftin,Web-разработчик,staff,fixed,,,1,1,1,1,1
+284,1,Joanne Hensley,Web дизайнер,staff,fixed,,,1,1,1,1,1
+285,1,Ken Martin,Web-разработчик,staff,fixed,,,1,1,1,1,1
+287,1,Lissette Vincent,Менеджер проектов,staff,fixed,,,1,1,1,1,1
+291,1,John Harley,Web-разработчик,staff,fixed,net,,1,1,1,1,1
+296,0,Elizabeth Myrick,,,,,,0,0,0,0,0
+298,1,Susan Conklin,DevOps engineer,staff,fixed,,B1,1,1,1,1,1
+299,0,Johnathan Wagner,Инженер тестировщик (QA engineer),staff,,,,0,0,0,0,0
+300,0,Staci Campbell,,,,,,0,0,0,0,0
+303,0,Tania Hall,,,,,,0,0,0,0,0
+306,0,Christopher Luechtefeld,,non_staff,,,,0,0,0,0,0
+309,1,Virginia Warren,,non_staff,,,,0,0,0,0,0
+310,0,Raymond Hardin,,,,,,0,0,0,0,0
+312,0,Kenneth Emme,,,,,,0,0,0,0,0
+314,0,Edwin Jones,,,,,,0,0,0,0,0
+315,0,Edward Ward,Менеджер проектов,staff,fixed,,,0,0,0,0,0
+318,1,Charles Velazquez,,staff,hourly,,,1,1,0,0,0
+319,1,Mark Gotch,DevOps инженер,staff,fixed,,B2,1,1,1,1,1
+321,0,Anthony Geffre,,,,,,0,0,0,0,0
+322,0,Barbara Green,,,,,,0,0,0,0,0
+324,0,Michael Duty,,,,,,0,0,0,0,0
+326,1,Donald Stafford,Директор по качеству,staff,fixed,,,1,1,1,1,0
+328,0,James Trevino,,,,,,0,0,0,0,0
+330,0,Robert Miller,,non_staff,fixed,,,0,0,0,0,0
+331,0,Mark Cremer,,non_staff,,,,0,0,0,0,0
+332,0,Ronald Braun,,,,,,0,0,0,0,0
+333,0,Ken Moran,,,,,,0,0,0,0,0
+334,0,Janet Wasson,,non_staff,hourly,,,0,0,0,0,0
+335,0,Shawn Turner,,,,,,0,0,0,0,0
+336,0,Gisela Washington,,non_staff,,,,0,0,0,0,0
+337,0,Andera Graham,,,,,,0,0,0,0,0
+338,0,Arnold Custodio,,,,,,0,0,0,0,0
+340,0,Raymond Rodriguez,,,,,,0,0,0,0,0
+345,1,Dana Calloway,,non_staff,hourly,,,0,0,0,0,0
+348,0,Helena Conner,,non_staff,,,,0,0,0,0,0
+350,0,Dana Amparan,,,,,,0,0,0,0,0
+351,1,Johnathan Foley,Web-разработчик,staff,hourly,,,1,1,1,1,1
+352,1,Patrick Hewson,Офис-менеджер,staff,fixed,,,1,1,1,1,1
+354,1,Jackie Ryan,Delivery Manager,staff,fixed,,,1,1,1,1,0
+355,1,Jessica Rondeau,DevOps инженер,staff,fixed,,,1,1,1,1,1
+356,0,Bobbi Marsden,Копирайтер,non_staff,hourly,,,1,1,0,1,0
+357,1,Jennifer Snyder,Web-разработчик,staff,fixed,,,1,1,1,1,1
+358,0,Michael Daniels,,,,,,0,0,0,0,0
+359,0,Roger Diaz,Операционный директор,staff,fixed,,,0,0,0,0,0
+360,1,Mary Schwendinger,Специалист отдела по управлению персоналом,staff,fixed,,,1,1,1,1,1
+361,0,Angelo Spector,,non_staff,hourly,,,0,0,0,0,0
+362,0,Robert Matson,,,,,,0,0,0,0,0
+363,0,Gordon Conlin,,,,,,0,0,0,0,0
+364,0,Elizabeth Aviles,,non_staff,,,,0,0,0,0,0
+365,1,Patricia Servin,Web-разработчик,staff,hourly,,,1,1,1,1,1
+366,0,Billy Green,,non_staff,,,,0,0,0,0,0
+367,1,George Dunn,Менеджер проектов,staff,fixed,,,0,1,1,1,0
+368,0,Lori Bond,,non_staff,hourly,,,0,0,0,0,0
+369,0,Myra Halvorsen,,,,,,0,0,0,0,0
+370,0,Paul Nathanson,,,,,,0,0,0,0,0
+371,0,Helen Volk,,,,,,0,0,0,0,0
+372,0,Laura Isola,,non_staff,,,,0,0,0,0,0
+373,0,Carolyn Morgan,,,,,,0,0,0,0,0
+374,0,John Calvin,,,,,,0,0,0,0,0
+375,0,Nila Bailey,,,,,,0,0,0,0,0
+377,0,Eloise Fox,,,,,,0,0,0,0,0
+378,0,Jamal Rios,,non_staff,,,,0,0,0,0,0
+379,0,Helen Aguilar,,,,,,0,0,0,0,0
+380,0,Jessica Oakes,,non_staff,hourly,,,0,0,0,0,0
+381,0,Kathryn Smith,,non_staff,hourly,,,0,0,0,0,0
+382,0,Ralph Evans,,non_staff,hourly,,,0,0,0,0,0
+383,1,Dwayne George,Бухгалтер,staff,fixed,,,0,0,0,0,0
+384,1,Joyce Mcgaha,Web-разработчик,non_staff,fixed,,,1,1,0,1,0
+385,0,Rose Bergen,,,,,,0,0,0,0,0
+386,0,Pablo Tortora,,,,,,0,0,0,0,0
+387,1,Steven Gaddy,Web-разработчик ,staff,fixed,,,1,1,1,1,1
+388,1,Alicia Harbin,Специалист по КДП,staff,fixed,,,1,1,1,1,1
+389,0,Sarah Grace,,,,,,0,0,0,0,0
+390,0,Minnie Nguyen,Системный администратор (DevOps инженер),staff,fixed,,,0,0,0,0,0
+391,1,Sharron Montes,Ведущий менеджер проектов,staff,fixed,,,0,0,0,0,0
+393,0,James Hoagland,Web-разработчик,staff,fixed,,,0,0,0,0,0
+394,0,Danny Badami,Системный администратор (DevOps инженер),staff,,,,0,0,0,0,0
+395,0,Benjamin Gibbs,Разработчик мобильных приложений,staff,fixed,,,0,0,0,0,0
+396,0,Jessica Reed,Руководитель отдела продаж,staff,fixed,,,0,0,0,0,0
+397,0,Arlyne Rodriguez,Менеджер по персоналу (HR менеджер),staff,fixed,,,0,0,0,0,0
+398,0,James Goldman,Web-разработчик,staff,fixed,,,0,0,0,0,0
+399,0,Michael Kent,Инженер тестировщик (QA engineer),staff,,,,0,0,0,0,0
+400,0,Loretta Richardson,Системный администратор (DevOps инженер),staff,,,,0,0,0,0,0
+401,0,Neil Madson,Web-разработчик,staff,fixed,,,0,0,0,0,0
+402,0,Natalia Harris,Системный администратор (DevOps инженер),staff,fixed,,,0,0,0,0,0
+403,1,Donnie Greenfield,Менеджер проектов,non_staff,fixed,,,1,1,0,1,0
+404,0,Lisa Lam,,non_staff,hourly,,,0,0,0,0,0
+405,0,Tony Smith,Рекрутер,non_staff,,,,1,1,0,1,0
+406,1,Carolyn Peffley,Менеджер проектов,staff,fixed,,,1,1,1,1,1
+407,0,Lewis Mcginnis,,non_staff,,,,0,0,0,0,0
+408,0,Gary Himenez,,non_staff,,,,0,0,0,0,0
+409,0,Barbara Carpenter,,non_staff,,,,0,0,0,0,0
+410,1,Morgan Sharkey,,,,,,0,0,0,0,0
+411,0,Eric Jensen,,non_staff,,,,0,0,0,0,0
+412,0,Kenneth Berube,,,,,,0,0,0,0,0
+413,1,Terri Cooper,,,,,,0,0,0,0,0
+414,1,Rosa Edson,Web-разработчик,staff,fixed,net,B1,1,1,1,1,0
+415,1,Tiffany Widner,Web-разработчик,staff,fixed,,,1,1,1,0,0
+416,1,Dennis Miller,,non_staff,hourly,,,0,0,0,0,0
+417,0,Nicholas Marquardt,,non_staff,hourly,,,0,0,0,0,0
+418,1,Sarah Anderson,,non_staff,fixed,,,1,1,0,1,0
+419,0,Margaret Ecklund,Сорсер,non_staff,fixed,,,1,1,0,1,0
+420,1,Teresa Doty,,non_staff,hourly,,,0,0,0,0,0
+421,0,Joseph West,,non_staff,fixed,,,1,1,0,1,0
+422,0,Shawn Simpson,,non_staff,,,,0,0,0,0,0
+423,0,Jose Vaughn,,non_staff,,,,0,0,0,0,0
+424,1,John Espinoza,,non_staff,,,,0,0,0,0,0
+425,1,Barry Slaughter,,non_staff,fixed,,,0,0,0,0,0
+426,1,Brenda Goodwin,,non_staff,fixed,,,0,0,0,0,0
+427,1,Cedric Zucker,,non_staff,fixed,,,0,0,0,0,0
+428,0,Michael Swanson,Web-разработчик,staff,fixed,,,1,1,1,0,0
+429,1,Willie Pantoni,,non_staff,fixed,,,1,1,0,1,0
+430,1,Rick Allen,,non_staff,hourly,,,0,0,0,0,0
+431,1,Eleanor Holland,Web-разработчик,staff,fixed,,,1,1,0,1,0
+432,1,Jason Edwards,Web-разработчик,staff,fixed,,,1,1,0,1,0
+433,0,Jay Robles,Ассистент HR-менеджера,staff,fixed,,,1,1,0,0,0
+434,0,Charles Mccreight,,non_staff,fixed,,,1,1,0,1,0
+435,0,Madeline Roy,,non_staff,,,A1,0,0,0,0,0
+436,1,Brett Loewen, Системный администратор,staff,fixed,,A1,1,1,0,0,0
+437,0,William Mayson,,non_staff,,,,0,0,0,0,0
+438,1,Nancy Perez,графический дизайнер,staff,fixed,net,,1,1,0,0,0
+439,1,Thomas Portugal,Ассистент менеджера проектов,staff,fixed,,,1,1,0,0,0
+440,1,Donald Egan,,non_staff,fixed,,,1,1,0,0,0
+441,0,Darren Henley,,non_staff,,,,0,0,0,0,0
+442,1,Kenneth Marmerchant,Web-разработчик,non_staff,hourly,,,1,1,0,0,0
+444,0,Ronald Vera,разработчик мобильных приложений,non_staff,fixed,net,,1,1,0,0,0
+445,0,Alvin Vue,Web-разработчик,staff,fixed,net,,1,1,0,0,0
+446,1,Tania Slaughter,разработчик мобильных приложений,staff,fixed,,,1,1,0,0,0
+447,1,Tina Delaney,,,,,,0,0,0,0,0
+448,1,Charles Jones,,non_staff,fixed,,,1,1,0,0,0
+449,0,Cassie Kramer,,non_staff,fixed,,,1,1,0,0,0
+450,0,Donna Harnden,,,,,,0,0,0,0,0
+451,1,Anika Herring,,non_staff,fixed,,,0,0,1,1,0
+452,0,Jaclyn Stewart,,staff,,,,0,0,0,0,0
+453,0,Debra Lamp,,,,,,0,0,0,0,0
+454,0,Eddie Jones,Менеджер проектов,staff,fixed,,,0,0,1,1,0
+455,0,Betty Brannon,Web-разработчик,staff,fixed,,,1,1,0,0,0
+456,1,Whitney Holland,,non_staff,hourly,,,0,0,1,1,0
+457,1,Robert White,Системный администратор,staff,fixed,,,0,0,1,1,0
+458,0,Eugene Sturgill,,non_staff,fixed,,,0,0,1,1,0
+459,1,George Toro,Системный администратор,staff,fixed,,,0,0,1,1,0
+460,1,Kami Archer,,non_staff,fixed,gross,,1,1,0,0,0
+461,1,Sandra Halcomb,,non_staff,hourly,,,1,1,0,0,0
+462,1,Aaron Pacheco,,non_staff,hourly,,,1,1,0,0,0
+466,1,Marita Salis,Менеджер проектов,staff,fixed,net,,1,1,0,0,0
+467,1,Andrew Fenske,Инженер-тестировщик,non_staff,fixed,,,1,1,0,0,0
+468,1,Katherine Vanner,Web-разработчик,staff,fixed,net,,1,1,0,0,0
+469,0,Randall Holmes,Web-разработчик,non_staff,fixed,gross,,1,1,0,0,0
+470,1,Shirley Turner,Копирайтер,non_staff,fixed,,,1,1,0,0,0
+471,1,Karen Willis,Менеджер проектов,staff,fixed,,,1,1,0,0,0
+472,0,Jill Weymouth,Копирайтер,non_staff,fixed,,,1,1,0,0,0
+473,1,Richard Weston,Web-разработчик,staff,fixed,,A1,1,1,1,0,0
+474,1,Susan Womack,,non_staff,hourly,net,,1,1,0,0,0
+475,1,Valerie Rosier,Web-разработчик,non_staff,fixed,gross,,1,1,0,0,0
+476,1,Johnny Silvia,Web-разработчик,non_staff,hourly,,,1,1,0,0,0
+477,1,Helen Richardson,Web-разработчик,non_staff,hourly,,,1,1,0,0,0
+478,0,Madeline Fiecke,Инженер-тестировщик,staff,hourly,,,1,1,0,0,0
+771,1,Harold Klinger,Web-разработчик,staff,fixed,,,1,1,0,0,0
+772,0,William Dininno,Менеджер проектов,non_staff,fixed,gross,,1,1,0,0,0
+773,1,Donald Simon,IT-рекрутер,non_staff,fixed,gross,,1,1,0,0,0
+774,1,Annie Proffitt,разработчик мобильных приложений,non_staff,fixed,,,1,1,0,0,0
+777,1,Stephen Harrison,,,,,,0,0,0,0,0
+778,1,Tessie Bourg,Web-разработчик,non_staff,hourly,,,1,1,0,0,0
+779,1,Tammy Petterson,,non_staff,hourly,net,,1,1,0,0,0
+780,0,Patricia Mcdaniels,,staff,,,,0,0,0,0,0
+781,1,Ruth Joshua,Web-разработчик,non_staff,hourly,,,1,1,0,0,0
+782,1,Ethel Camerano,ML-инженер,non_staff,fixed,gross,,1,1,0,0,0
+783,0,John Benevides,Web-разработчик,non_staff,hourly,gross,,1,1,0,0,0
+784,1,Jesus Mohr,Инженер-тестировщик,staff,fixed,net,,1,1,0,0,0
+785,1,Barbara Hayes,Сорсер,non_staff,fixed,gross,,1,1,0,0,0
+786,1,Sharee Enoch,Копирайтер,non_staff,fixed,gross,,0,0,0,0,0
+787,1,Brandon Jones,Web-разработчик,staff,fixed,,,1,1,0,0,0
+788,1,Daniel Roberson,Web-разработчик,staff,fixed,,,1,1,0,0,0
+789,0,Craig Scott,,non_staff,,,,0,0,0,0,0
+790,1,Chantel Stephens,,,,,,0,0,0,0,0
+791,1,Richard Cody,Web-разработчик,non_staff,,,,1,1,0,0,0
+792,1,William Clark,разработчик мобильных приложений,non_staff,hourly,,,1,1,0,0,0
+793,1,Thomas Chen,офис-менеджер,staff,fixed,,,1,1,0,0,0
+794,1,Jerry Carlson,Web-разработчик,non_staff,hourly,,,1,1,0,0,0
+795,1,James Arnett,Web-разработчик,non_staff,hourly,,,1,1,0,0,0
+796,1,Billy Grafton,Web-разработчик,non_staff,hourly,,,1,1,0,0,0
+797,1,Thomas Morin,Web-разработчик,non_staff,hourly,,,1,1,0,0,0
+798,1,Elmer Christensen,Web-разработчик,non_staff,hourly,,,1,1,0,0,0
+799,1,Steven Muir,Консультант,non_staff,hourly,net,,1,1,0,0,0
+800,1,Richard Rivera,Web-разработчик,non_staff,hourly,net,,1,1,0,0,0
+801,1,Leonard Owens,Менеджер проектов,staff,fixed,net,,1,1,0,0,0
+802,1,Maritza Singleton,seo-специалист,non_staff,fixed,,,1,1,0,0,0
+803,1,Selma Campbell,Менеджер проектов,non_staff,fixed,net,,1,1,0,0,0
+804,1,Elizabeth Gonzalez,Менеджер по тендерам,non_staff,fixed,,,1,1,0,0,0
+805,0,Betty Eddy,Web-разработчик,non_staff,hourly,net,,1,1,0,0,0
+806,1,Thomas Mitchell,Web-разработчик,staff,fixed,net,,1,1,0,0,0
+807,1,Colette Holmes,Менеджер проектов,staff,fixed,net,,1,1,0,0,0
+808,1,John Wade,Ассистент HR-менеджера,non_staff,,,,0,0,0,0,0
+809,1,Michele Hackworth,разработчик мобильных приложений,staff,fixed,,,1,1,0,0,0
+810,0,Jimmy Goodin,Web-разработчик,non_staff,hourly,gross,,1,1,0,0,0
+811,1,Barbara Garcia,Менеджер проектов,staff,fixed,net,,1,1,0,0,0
+812,1,Howard Woodall,Web-разработчик,staff,fixed,net,,1,1,0,0,0
+813,1,Rosa Stockton,Web-разработчик,non_staff,hourly,,,1,1,0,0,0
+814,1,Lynn Plazza,Web-разработчик,non_staff,hourly,,,1,1,0,0,0
+815,1,Connie Ziegler,Ведущий web-разработчик,non_staff,hourly,,,1,1,0,0,0
+816,1,Twila Jennings,Копирайтер,non_staff,fixed,net,,1,1,0,0,0
+817,1,Wendi Ericksen,Web-разработчик,non_staff,hourly,,,1,1,0,0,0
+818,1,Donald Hernandez,Web-разработчик,non_staff,hourly,,,1,1,0,0,0
+819,1,Shawna Michael,помощник бухгалтера,staff,fixed,,,1,1,0,0,0
+820,1,Marisa Blackmon,Web-разработчик,non_staff,hourly,,A1,1,1,0,0,0
+821,1,William Villarreal,Web-разработчик,non_staff,hourly,,,1,1,0,0,0
+822,1,Lloyd Spencer,Web-разработчик,non_staff,hourly,,,1,1,0,0,0
+823,1,Thomas Baldwin,Сорсер,non_staff,fixed,,B1,1,1,0,0,0
+824,1,Patrick Shaw,DM-политик,non_staff,fixed,,A2,1,1,0,0,0
+825,1,Georgia Collins,Web-разработчик,non_staff,fixed,,C1,1,1,0,0,0
+826,1,Theresa Larsen,Инженер-тестировщик,staff,fixed,,A1,1,1,0,0,0
+827,1,Christina Lee,,,,,,0,0,0,0,0
+828,1,Robin Berry,,,,,,0,0,0,0,0
+829,1,Rafael Burt,,,,,,0,0,0,0,0
+830,1,Eileen Molina,,,,,,0,0,0,0,0
