@@ -33,6 +33,10 @@ SS tot - общая сумма ошибок.
 
 
 ## Решение
+[**main_clean.ipynb**](https://github.com/sergak0/collector/blob/main/main_clean.ipynb) - чистый блокнотик с финальным решением
+
+[**main_all.ipynb**](https://github.com/sergak0/collector/blob/main/main_clean.ipynb) - блокнотик со всем кодом: финальное решение, несработавшие гипотезами, EDA и тд.
+
 ### Чистка датасета
 В данном датасете было некоторое кол-во выбросов, на которые переобучался кэтбуст. Поэтому я просто убрал все такие значения из датасета
 `df_train = df_train[df_train['overall_worklogs'] < 300000]`
